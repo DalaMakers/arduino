@@ -1,4 +1,7 @@
-# arduino
+# Monday Arduino Course
 
 
-Add arduino code here
+Here you can find the code from the arduino course.
+
+In the course folder
+
